@@ -1,4 +1,5 @@
 @echo off
+echo Created by Ridham Tarpara<ridham.tarpara@gmail.com>
 echo
 echo ******************************************************************************
 echo VGA
